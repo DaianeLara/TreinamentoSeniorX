@@ -1,0 +1,385 @@
+{
+    "ahzQXu2rrgfhHcmPayrollEmployeeSave": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "bearer EvzUl1zkIzLiMAR07CZbhy2n4tvwGZG8"
+            },
+            "body": {
+                "sheetContract": {
+                    "hireDate": "2011-04-01",
+                    "registernumber": "41",
+                    "registrationNumber": "40",
+                    "hireType": {
+                        "key": "FirstJob",
+                        "value": "1 - Primeiro Emprego"
+                    },
+                    "situation": {
+                        "tableId": "2861F73553E8485BA38C1020D8B50E93",
+                        "name": "Trabalhando"
+                    },
+                    "categoryESocial": {
+                        "key": "Category_722",
+                        "value": "722 - Contribuinte individual - Diretor não empregado sem FGTS (Vigente desde 01/04/2011)"
+                    },
+                    "eSocialStartDate": "2011-04-01",
+                    "sefipCategoryType": {
+                        "key": "TYPE_11",
+                        "value": "Contrib.Indiv./Diretor ñ empr.+ empresários s/ FGTS (Vigente desde 01/04/2011)"
+                    },
+                    "sefipStartDate": "2011-04-01",
+                    "unemploymentInsuranceType": {
+                        "key": "NOT_CONSULTED",
+                        "value": "Não consultado"
+                    },
+                    "appearsinRais": "false",
+                    "actingType": {
+                        "tableId": "CAC30E400DB8445F8899B24F25216C42",
+                        "name": "Atuação Principal"
+                    },
+                    "employeeType": {
+                        "key": "EMPLOYEE",
+                        "value": "1 - Colaborador"
+                    },
+                    "employmentRelationship": {
+                        "tableId": "0B6C5530BF6C460B80763E6A3E62AF52",
+                        "name": "80 - Diretor ñ Empregado (Vigente desde 01/04/2011)"
+                    },
+                    "employmentRelationshipStartDate": "2011-04-01",
+                    "duration": 90,
+                    "extension": 0,
+                    "endDate": "2011-06-29",
+                    "customFieldsEmployee": [
+                        {
+                            "field": "USU_CARCON",
+                            "value": "S"
+                        }
+                    ],
+                    "customFieldsHistoricalExpenseNature": []
+                },
+                "sheetDocument": {
+                    "cpfNumber": "61560657090",
+                    "pisNumber": "12525612061",
+                    "ctpsNumber": "000015006",
+                    "ctpsSerie": "4411",
+                    "ctpsState": {
+                        "tableId": "63EC706517F6498CBF29769679D68D22",
+                        "name": "Santa Catarina"
+                    },
+                    "ctpsIssuanceDate": "1990-02-06",
+                    "rgNumber": "3/R 1.898.767",
+                    "rgIssuer": "SSI",
+                    "rgState": {
+                        "tableId": "63EC706517F6498CBF29769679D68D22",
+                        "name": "Santa Catarina"
+                    },
+                    "rgIssuanceDate": "1998-05-10",
+                    "cnh": "1846",
+                    "cnhCategory": "C",
+                    "cnhIssuer": "DETRAN",
+                    "cnhState": {
+                        "tableId": "63EC706517F6498CBF29769679D68D22",
+                        "name": "Santa Catarina"
+                    },
+                    "cnhExpeditionDate": "2000-01-01",
+                    "cnhExpirationDate": "2004-01-01",
+                    "firstDriverLicenceDate": "1990-01-01",
+                    "customFieldsRg": []
+                },
+                "sheetFinancial": {
+                    "payType": {
+                        "key": "Monthly",
+                        "value": "Mensal"
+                    },
+                    "payMode": {
+                        "key": "BankRelationship",
+                        "value": "Relação bancária"
+                    },
+                    "receivesThirteenthSalary": "false",
+                    "receivesSalaryAdvance": "false",
+                    "bank": {
+                        "tableId": "32713F1DD4754C3697E1D9BC48889A08",
+                        "name": "1 - Banco do Brasil"
+                    },
+                    "bankBranch": {
+                        "tableId": "5FD2CD0C18814383A35C7AEAAED1AFC9",
+                        "name": "1 - CENTRO"
+                    },
+                    "accountType": {
+                        "key": "CurrentAccount",
+                        "value": "1 - Conta Corrente"
+                    },
+                    "accountNumber": "78933",
+                    "accountDigit": "4",
+                    "optingForFGTS": "false",
+                    "customFieldsAccount": [],
+                    "useHistoricalBankAccount": false,
+                    "hireDate": "1900-01-01"
+                },
+                "sheetInitial": {
+                    "company": {
+                        "tableId": "C578020D235E4580A52A1084A2A2756F",
+                        "name": "1 - Demonstra Ind.& Com. Têxtil S/A"
+                    },
+                    "contractNationality": {
+                        "key": "National",
+                        "value": "1 - Nacional"
+                    },
+                    "employee": {
+                        "tableId": "71ADC23C435E4EC299F2A3627EE79216",
+                        "name": "Mauricio Liffen"
+                    },
+                    "contractType": {
+                        "key": "Manager",
+                        "value": "2 - Diretor"
+                    },
+                    "person": {
+                        "tableId": "B7FB542AE5C145B89CE0594B944EEBAA",
+                        "name": "Mauricio Liffen"
+                    }
+                },
+                "sheetPersona": {
+                    "attachment": {
+                        "attachmentId": "FF9D1B3ECC14447E9B61DC0F4345E919",
+                        "fileId": "A2513D53BC164CC190DB8FB4276D2936/1_1_41.bmp",
+                        "thumbnail": false
+                    },
+                    "nickname": "APttt",
+                    "gender": {
+                        "key": "Male",
+                        "value": "Masculino"
+                    },
+                    "birthday": "1973-05-11",
+                    "maritalStatus": {
+                        "key": "Single",
+                        "value": "1 - Solteiro"
+                    },
+                    "degreeOfEducation": {
+                        "tableId": "FB7D5BD59176409DBE93235887475EB6",
+                        "name": "10 - Pós-Graduação"
+                    },
+                    "nationality": {
+                        "tableId": "BE35416D80F34D7B821F52AC16AE687B",
+                        "name": "10 - Brasileiro"
+                    },
+                    "race": {
+                        "key": "White",
+                        "value": "1 - Branca"
+                    },
+                    "countryOfBirthday": {
+                        "tableId": "892088CCF9904C1D9AD34B7E9C4D2057",
+                        "name": "Brasil"
+                    },
+                    "stateOfBirthday": {
+                        "tableId": "63EC706517F6498CBF29769679D68D22",
+                        "name": "Santa Catarina"
+                    },
+                    "cityOfBirthday": {
+                        "tableId": "C0FE6B6F9A5C4A0C8006B0628837C388",
+                        "name": "BLUMENAU"
+                    },
+                    "country": {
+                        "tableId": "892088CCF9904C1D9AD34B7E9C4D2057",
+                        "name": "Brasil"
+                    },
+                    "cep": "89010300",
+                    "state": {
+                        "tableId": "63EC706517F6498CBF29769679D68D22",
+                        "name": "Santa Catarina"
+                    },
+                    "city": {
+                        "tableId": "C0FE6B6F9A5C4A0C8006B0628837C388",
+                        "name": "BLUMENAU"
+                    },
+                    "addressType": {
+                        "key": "Avenue",
+                        "value": "Avenida"
+                    },
+                    "addressName": "Avenida Rio Branco",
+                    "addressNumber": "336",
+                    "addressComplement": "Apto 1100",
+                    "phones": [
+                        {
+                            "id": "8E178A3D03CB4B02950F9E1153CEB968",
+                            "phoneType": {
+                                "key": "Personal",
+                                "value": "1 - Pessoal/Residencial"
+                            },
+                            "countryCode": "55",
+                            "localCode": "47",
+                            "number": "3226600",
+                            "extention": null
+                        }
+                    ],
+                    "emails": [
+                        {
+                            "id": "67679FF870E34F0A8049C48699E55723",
+                            "email": "mauricio@ucs.com.br",
+                            "emailType": {
+                                "key": "Personal",
+                                "value": "1 - E-mail Pessoal"
+                            }
+                        }
+                    ],
+                    "isDisability": "true",
+                    "isOccupantQuota": "false",
+                    "socialName": "w",
+                    "customFieldsPerson": []
+                },
+                "sheetPlace": {
+                    "workstationGroup": {
+                        "tableId": "B7E386BE4D4D4BA1BB9B80421D59AA6A",
+                        "name": "PRO001 - Diretor Produção (Vigente desde 01/04/2011)"
+                    },
+                    "branch": {
+                        "tableId": "74721CE17B2249309E6BC89B47C917BC",
+                        "name": "1 - Demonstra S/A - Matriz (Vigente desde 01/04/2011)"
+                    },
+                    "costCenter": {
+                        "tableId": "3A9453C245BA4A9984933463AC7D581E",
+                        "name": "13 - Produção (Vigente desde 01/04/2011)"
+                    },
+                    "department": {
+                        "tableId": "5A63A0ADE72F495DB91A2C2A998CCCD7",
+                        "name": "1.03 - Produção (Vigente desde 01/04/2011)"
+                    },
+                    "jobPosition": {
+                        "tableId": "D093C47556A34CAC93378A50C8E184EE",
+                        "name": "41 - Diretor de Produção (Vigente desde 01/04/2011)"
+                    },
+                    "workstationGroupStartDate": "2011-04-01",
+                    "branchStartDate": "2011-04-01",
+                    "costCenterStartDate": "2011-04-01",
+                    "departmentStartDate": "2011-04-01",
+                    "jobPositionStartDate": "2011-04-01",
+                    "customFieldsHistoricalWorkstation": [],
+                    "customFieldsHistoricalCostCenter": [],
+                    "customFieldsHistoricalJobPosition": [],
+                    "customFieldsHistoricalCompanyBranch": [],
+                    "customFieldsHistoricalDepartment": []
+                },
+                "sheetSalary": {
+                    "salaryType": {
+                        "key": "Monthly",
+                        "value": "Mensalista (Vigente desde 01/06/2012)"
+                    },
+                    "wageScale": {
+                        "tableId": "441572DB6FF3445E831249B24ED7A86C",
+                        "name": "Demonstração (Vigente desde 01/06/2012)"
+                    },
+                    "wageClass": {
+                        "tableId": "290068A0802D4BC09D15FC91289FFBDC",
+                        "name": "A (Vigente desde 01/06/2012)"
+                    },
+                    "wageLevel": {
+                        "tableId": "47A1F676ACBB4EB0AA77E4158679FF62",
+                        "name": "1 (Vigente desde 01/06/2012)"
+                    },
+                    "salary": "2512.60",
+                    "customFieldsHistoricalSalary": []
+                },
+                "sheetSyndicate": [
+                    {
+                        "syndicate": {
+                            "tableId": "8000680D0AD24C038980CC83631DB904",
+                            "name": "Sind. Indústria Blumenau (Vigente desde 01/04/2011)"
+                        },
+                        "isMainSyndicate": true,
+                        "isUnionized": false,
+                        "isAssistanceFee": false,
+                        "isCosting": false,
+                        "isReversion": false
+                    }
+                ],
+                "sheetWorkSchedule": {
+                    "workshiftStartDate": "2011-04-01",
+                    "workshift": {
+                        "tableId": "4CDC0135BE8D4F1AA5E209F17C5AC530",
+                        "name": "08:00 1200-1330 18:00-Gerada (Vigente desde 01/04/2011)"
+                    },
+                    "workshiftGroup": {
+                        "tableId": "0A04A469834941C5AA61C8940DBC4DB6",
+                        "name": "1 (Vigente desde 01/04/2011)"
+                    },
+                    "customFieldsHistoricalWorkshift": []
+                },
+                "sheetOtherContract": {
+                    "otherContractType": {
+                        "key": "SINGLE_CONTRACT",
+                        "value": "Contrato único"
+                    },
+                    "customFieldsOtherContract": []
+                },
+                "sheetEntries": {},
+                "sheetComplement": {
+                    "retirementType": null,
+                    "retirementDate": null,
+                    "taxExemption": null,
+                    "movementSefipRetirement": null,
+                    "transportationVoucherScale": null,
+                    "pointEmbarkation": null,
+                    "transportationVoucherStartDate": null,
+                    "healthAndSafety": {
+                        "lastMedicalExaminationDate": "2008-01-08",
+                        "nextMedicalExaminationDate": "2011-10-21"
+                    },
+                    "healthPlan": {
+                        "healthPlanType": null,
+                        "healthPlanCode": null,
+                        "registrationCode": null,
+                        "inclusionDate": null,
+                        "exclusionDate": null,
+                        "healthplanCode": null
+                    },
+                    "qualificationStructure": {
+                        "qualification": null,
+                        "wagescale": null,
+                        "wageclass": null,
+                        "wagelevel": null
+                    },
+                    "badge": "410100000041",
+                    "issueDotCard": {
+                        "key": "No",
+                        "value": "Não"
+                    },
+                    "controlPoint": {
+                        "key": "TYPE_4",
+                        "value": "Não Conta"
+                    },
+                    "deleteClockingEventType": {
+                        "key": "TYPE_1",
+                        "value": "Não eliminar"
+                    },
+                    "customFieldsHistoricalTransportationVoucherScale": [],
+                    "customFieldsRetirement": [],
+                    "healthPlanType": null
+                },
+                "sheetContractDetails": {
+                    "director": {
+                        "enrollmentInss": null,
+                        "oldAgeRetirementType": {
+                            "key": "No",
+                            "value": "Não"
+                        },
+                        "contributionClass": 0,
+                        "startGpsQuarterly": null,
+                        "automaticClassUpdateType": {
+                            "key": "No",
+                            "value": "Não"
+                        },
+                        "inssCardType": {
+                            "key": "Yes",
+                            "value": "Sim"
+                        },
+                        "inssDeductType": {
+                            "key": "NORMAL",
+                            "value": "Normal"
+                        },
+                        "inssDiscount": 11,
+                        "directorCustomFields": []
+                    }
+                },
+                "activeEmployeeId": "6A63F5C8BDE04069A20AD98A7EBBF877"
+            }
+        }
+    }
+}

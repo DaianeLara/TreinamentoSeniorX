@@ -1,0 +1,15 @@
+{
+  "name": "ahzQXu2rrgfhHcmPayrollCreateMergeDismissalMovimentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
